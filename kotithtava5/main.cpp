@@ -1,4 +1,5 @@
 #include "kerrostalo.h"
+// testi
 
 int main() {
     Kerrostalo* kerrostalo = new Kerrostalo;
